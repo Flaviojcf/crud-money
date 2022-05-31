@@ -34,7 +34,7 @@ git clone https://github.com/Flaviojcf/crud-money
 # ou use a opção de download.
 
 # Entre na pasta web com 
-cd dtmoney
+cd crud-money
 
 # Instale as dependências
 yarn install
