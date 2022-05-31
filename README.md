@@ -1,5 +1,9 @@
 # Crud Money
 
+<p align="center">
+  <img src=".assets/crudMoney.png" alt="Página inicial">
+</p>
+
 ## Tópicos 
 
 [Tecnologias](#tecnologias)
