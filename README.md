@@ -1,7 +1,7 @@
 # Crud Money
 
 <p align="center">
-  <img src=".assets/crudMoney.png" alt="Página inicial">
+  <img src="/src/assets/crudMoney.png" alt="Página inicial">
 </p>
 
 ## Tópicos 
